@@ -6,7 +6,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dimitrimll/)](https://www.linkedin.com/in/dimitrimll/)
 
 ## Sobre mim
-Sou estudante de 😍**Análise e Desenvolvimento de Sistemas**😍, 🎓**Engenheiro Metalúrgico**🎓 🚧**Pós graduando em Engenharia de Segurança do Trabalho**🚧 e 📁**Pós graduando em Big Data**📁
+- Estudante de 😍 **Análise e Desenvolvimento de Sistemas** 😍
+- 🎓 **Engenheiro Metalúrgico** 🎓 
+- 🚧 **Pós graduando em Engenharia de Segurança do Trabalho** 🚧  
+- 📁 **Pós graduando em Big Data** 📁
 
 ## ***</>*** Alguns Projetos
 
