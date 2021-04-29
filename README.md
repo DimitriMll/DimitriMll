@@ -16,6 +16,8 @@
 
 ## ***</>*** Alguns Projetos
 
+### [<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/>](https://reactjs.org/) [ROBOFRIENDS](https://dimitrimll.github.io/robofriends/)
+
 ### 🌐 [NLW#3](https://github.com/DimitriMll/nlw03)
 
 ### ✂️ [Barbearia Alura 4.0](https://github.com/DimitriMll/barbearia-alura-4)
