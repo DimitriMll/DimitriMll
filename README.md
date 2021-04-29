@@ -1,6 +1,6 @@
 # 👋 Olá, meu nome é Dimitri!
 
-### 📆 Atualizado em 20/03/21 📆
+### 📆 Atualizado em 29/04/21 📆
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/DimitriMll)](https://github.com/DimitriMll)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dimitrimll/)](https://www.linkedin.com/in/dimitrimll/)
