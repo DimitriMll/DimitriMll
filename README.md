@@ -16,7 +16,7 @@
 
 ## ***</>*** Some of my projects
 
-### [<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt="react" width="25" height="25"/>](https://dotnet.microsoft.com/) [Sync Databases](https://project1-dimitrimll.azurewebsites.net/)
+### [<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt="react" width="25" height="25"/>](https://dotnet.microsoft.com/) [Sync Databases](https://github.com/DimitriMll/Project1)
 
 ### [<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/>](https://reactjs.org/) [ROBOFRIENDS](https://github.com/DimitriMll/robofriends)
 
